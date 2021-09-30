@@ -1,5 +1,5 @@
 {
-  "name": "orta/type-noops",
+  "name": "@orta/type-noops",
   "version": "0.0.1",
   "description": "Empty .d.ts files for TypeScript 4.5's lib overrides",
   "keywords": ["typescript", "types", "overrides"],
